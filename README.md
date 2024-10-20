@@ -5,7 +5,7 @@
   
 
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinnyMendess&theme=2077)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinnyMendess&theme=2077) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VinnyMendess&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinnyMendess&theme=2077)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinnyMendess&theme=2077) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VinnyMendess&theme=2077)](https://github.com/VinnyMendess/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
