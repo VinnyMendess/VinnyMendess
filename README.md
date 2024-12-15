@@ -14,7 +14,11 @@
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,aws,javascript,java,mysql,css,html,react,nodejs,figma,ps,github,vercel,vite,bootstrap,discord,linkedin,instagram,discord" />
 </a>
+
   <br />
+![VinnyMendess's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinnyMendess&theme=radical&hide_border=true)
+
+<br />
 
   </div>
 
