@@ -17,15 +17,6 @@
 
   <br />
 
-![VinnyMendess's Streak](https://streak-stats.demolab.com?user=VinnyMendess&theme=radical&hide_border=true)
-
-![Snake animation](https://github.com/VinnyMendess/VinnyMendess/blob/output/github-contribution-grid-snake.svg)
-
-
-![Profile views](https://komarev.com/ghpvc/?username=VinnyMendess&color=blueviolet&style=flat-square)
-
-<br />
-
   </div>
 
  
@@ -33,7 +24,10 @@
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=VinnyMendess&theme=dracula"/>
   </div>
-  
+    <br />
+![VinnyMendess's Streak](https://streak-stats.demolab.com?user=VinnyMendess&theme=radical&hide_border=true)
+<br />
+![Profile views](https://komarev.com/ghpvc/?username=VinnyMendess&color=blueviolet&style=flat-square)
  
 
 
