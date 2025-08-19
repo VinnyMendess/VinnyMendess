@@ -31,7 +31,7 @@
 ![VinnyMendess's Streak](https://streak-stats.demolab.com?user=VinnyMendess&theme=radical&hide_border=true)
 <br />
 ![Profile views](https://komarev.com/ghpvc/?username=VinnyMendess&color=blueviolet&style=flat-square)
-</div>div>
+</div>
  
 
 
