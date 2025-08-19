@@ -1,5 +1,5 @@
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VinnyMendess&theme=tokyo-night)
 
 
 
