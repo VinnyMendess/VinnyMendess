@@ -1,8 +1,6 @@
 
 
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
 
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinnyMendess&theme=2077)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinnyMendess&theme=2077) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VinnyMendess&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
@@ -16,7 +14,9 @@
 </a>
 
   <br />
-![VinnyMendess's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinnyMendess&theme=radical&hide_border=true)
+
+![VinnyMendess's Streak](https://streak-stats.demolab.com?user=VinnyMendess&theme=radical&hide_border=true)
+
 
 <br />
 
