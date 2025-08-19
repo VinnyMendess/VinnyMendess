@@ -1,5 +1,5 @@
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VinnyMendess&theme=tokyo-night)
+
 
 
 
@@ -17,6 +17,9 @@
   <br />
 
 ![VinnyMendess's Streak](https://streak-stats.demolab.com?user=VinnyMendess&theme=radical&hide_border=true)
+
+![Snake animation](https://github.com/VinnyMendess/VinnyMendess/blob/output/github-contribution-grid-snake.svg)
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=VinnyMendess&color=blueviolet&style=flat-square)
 
